@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **maliabeerkhan1127@gmail.com**
 
-- ⚡ Fun fact **I an learning Assembly!**
+- ⚡ Fun fact **I am also learning Assembly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
