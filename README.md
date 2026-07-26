@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **Object Oriented Programming (OOPs).**
 
-- 🌱 I’m currently learning **C++, Python, Rust, Js.**
+  **C:\>** Developed and deployed via cross-platform environments, utilizing CLI tools across both Linux (Terminal) and Windows (CMD) ecosystems.
+
+- 🌱 I’m currently learning **C++, Python, Rust, Js. **
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning.**
 
