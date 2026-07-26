@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Object Oriented Programming (OOPs).**
 
-  **𝗖:\>** Developed and deployed via cross-platform environments, utilizing CLI tools across both Linux (Terminal) and Windows (CMD) ecosystems.
+- **𝗖:\>** Developed and deployed via cross-platform environments, utilizing CLI tools across both Linux (Terminal) and Windows (CMD) ecosystems.
 
 - 🌱 I’m currently learning **C++, Python, Rust, Js. **
 
