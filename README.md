@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Python, Rust, Js.**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning.**
+- 🤝 I’m looking to collaborate on **Machine Learning and Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ctrl-shift-ali](https://github.com/ctrl-shift-ali)
 
