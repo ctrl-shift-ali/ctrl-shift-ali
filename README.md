@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ctrl-shift-ali](https://github.com/ctrl-shift-ali)
 
-- 🌐  My Portfolio, Go checkout about [ME!](https://github.com/ctrl-shift-ali/My-Portfolio/).
+- 🌐  My Portfolio, Go checkout about [ME!](https://ctrl-shift-ali.github.io/My-Portfolio/).
 
 - 💬 Ask me about **anything you want.**
 
