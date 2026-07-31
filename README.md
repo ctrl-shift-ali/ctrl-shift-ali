@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [ctrl-shift-ali](https://github.com/ctrl-shift-ali)
 
-- 🌐  My [Portfolio](https://github.com/ctrl-shift-ali/My-Portfolio.git)
+- 🌐  My [Portfolio](https://github.com/ctrl-shift-ali/My-Portfolio/), Go checkout about ME!.
 
 - 💬 Ask me about **anything you want.**
 
 - 📫 How to reach me **maliabeerkhan1127@gmail.com**
 
-- ⚡ Fun fact **I am learning Assembly!**
+- ⚡ Fun fact **I have learned Assembly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
