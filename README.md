@@ -11,7 +11,9 @@
 
 - 🤝 I’m looking to collaborate on **Machine Learning and Deep Learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ctrl-shift-ali](https://github.com/ctrl-shift-ali)
+- 👨‍💻 All of my projects are available at [ctrl-shift-ali](https://github.com/ctrl-shift-ali)
+
+- 🌐  My [Portfolio](https://github.com/ctrl-shift-ali/My-Portfolio.git)
 
 - 💬 Ask me about **anything you want.**
 
